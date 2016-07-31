@@ -13,17 +13,17 @@ layout: default
     </ul>
 </div>
 <div class="portfolio">
-    <h1>Web Design:</h1>
+    <h1>Projects:</h1>
     <ul>
-        {% for websites in site.data.websites %}
+        {% for projects in site.data.projects %}
         <li>
-            <a href="{{ websites.url }}">{{ websites.url }}</a>
+            <a href="{{ projects.url }}">{{ projects.url }}</a>
         </li>
         {% endfor %}
     </ul>
 </div>
-<div class="blog">
-    <h1>Blog Posts:</h1>
+<div class="News">
+    <h1>News:</h1>
     <ul>
         {% for post in site.posts %}
         <li>
@@ -32,8 +32,4 @@ layout: default
         {% endfor %}
     </ul>
 </div>
-<div class="music">
-    <h1>Now Playing:</h1>
-    <a href="http://www.last.fm/user/getmicah"><span id="nowPlaying"></span></a>
-</div>
-<script src="/assets/js/main.js"></script>
+
