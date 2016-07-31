@@ -3,17 +3,19 @@
 
 @import "reset";
 @import "config";
-<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Open+Sans" rel="stylesheet">
 
 body {
 	color: $color-black;
 	background: $color-white;
-	font-family: 'Cormorant+Garamond', ;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 100%;
 	font-weight: 400;
 }
 h1 {
 	margin-bottom: 5px;
+	font-family: 'Cormorant Garamond', serif;
+	
 }
 p {
 	font-size: 1em;
