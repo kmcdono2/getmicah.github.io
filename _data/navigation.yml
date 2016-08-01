@@ -2,7 +2,10 @@
   url: /
 
 - title: about
-  url: /me
+  url: /about
+  
+- title: cv
+  url: /cv
 
 - title: twitter
   url: https://twitter.com/khetiwe24
