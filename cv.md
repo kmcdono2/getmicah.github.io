@@ -1,10 +1,8 @@
 ---
-layout: default
-title: cv
+layout: page
+title: CV
 permalink: /cv/
 ---
-
- <a class="about__back" href="/"><< back</a>
 
 ## Katherine L McDonough
 Werrington South BB.G.39  
@@ -17,21 +15,21 @@ k.mcdonough@westernsydney.edu.au
 ### Professional History
 
 #### Positions
-	2016-18	Research Associate in Digital Humanities. Mapping Print, Charting Enlightenment Project, Digital Humanities Research Group, Western Sydney University. Penrith/Parramatta, New South Wales, Australia  
+2016-18	Research Associate in Digital Humanities. Mapping Print, Charting Enlightenment Project, Digital Humanities Research Group, Western Sydney University. Penrith/Parramatta, New South Wales, Australia  
 
-	2015-16	Visiting Assistant Professor of Early Modern European History. Department of History, Bates College. Lewiston, Maine  
+2015-16	Visiting Assistant Professor of Early Modern European History. Department of History, Bates College. Lewiston, Maine  
 
-	2014–15	Lecturer in History of Science & Writing and Rhetoric. Dual Appointment in History and Philosophy of Science and Writing and Rhetoric Programs, Instructor in Science in the Making Integrated Learning Environment, Stanford University 
+2014–15	Lecturer in History of Science & Writing and Rhetoric. Dual Appointment in History and Philosophy of Science and Writing and Rhetoric Programs, Instructor in Science in the Making Integrated Learning Environment, Stanford University 
 Stanford, California  
 
-	2013–14	Humanities and Arts Initiatives Coordinator. Office of the Dean, School of Humanities and Sciences, Stanford University  
+2013–14	Humanities and Arts Initiatives Coordinator. Office of the Dean, School of Humanities and Sciences, Stanford University  
 
 
 #### Education  
  
-	PhD and MA	Stanford University, Ph.D. 2013, M.A. 2009 (Department of History) Dissertation: *Building the Roads: Expertise, Labor, and Politics in Provincial France, 1675-1791*, Keith M. Baker, advisor. Paula Findlen, Dan Edelstein, James P. Daughton, committee members.  
+PhD and MA	Stanford University, Ph.D. 2013, M.A. 2009 (Department of History) Dissertation: *Building the Roads: Expertise, Labor, and Politics in Provincial France, 1675-1791*, Keith M. Baker, advisor. Paula Findlen, Dan Edelstein, James P. Daughton, committee members.  
 
-	BA	Johns Hopkins University, B.A. 2006 in History and French Literature, minor in Music (Phi Beta Kappa). Thesis: *Penser le pan-Celtisme en Bretagne: la politisation d’une nouvelle nationalité, 1792-1839*, David A. Bell, advisor.  
+BA	Johns Hopkins University, B.A. 2006 in History and French Literature, minor in Music (Phi Beta Kappa). Thesis: *Penser le pan-Celtisme en Bretagne: la politisation d’une nouvelle nationalité, 1792-1839*, David A. Bell, advisor.  
 		     	          
 
 ### Awards  

@@ -5,7 +5,7 @@ title2: "McDonough" # default: ""
 description: "My personal website"
 keywords: "history, academia, mapping, France, European, French"
 url: http://kmcdono.com # site url
-baseurl: "null" # apply repo name if use it under gh-pages branch
+baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
@@ -31,7 +31,7 @@ sass:
 author:
   name     : false
   job      : false
-  bio      : "I am a historian of France working primarily on the eighteenth century."
+  bio      : "I am a historian of France working primarily on the eighteenth century. I write periodically here about research, teaching, digital history, issues in higher ed, archives, and radio/podcasts."
   thumb    : 
   email    : 
   url      :
