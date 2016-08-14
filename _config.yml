@@ -1,15 +1,15 @@
 
 # SEO settings
-title: "Katie"
+title: "Katie "
 title2: "McDonough" # default: ""
 description: "My personal website"
 keywords: "history, academia, mapping, France, European, French"
 url: http://kmcdono.com # site url
-baseurl: "/" # apply repo name if use it under gh-pages branch
+baseurl: "null" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
+repo: github.kmcdono2.io
 disqus_shortname: 
 twitter_username: khetiwe24
 comments: false
