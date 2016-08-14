@@ -1,10 +1,8 @@
 ---
-layout: default
-title: about
+layout: page
+title: About
 permalink: /about/
 ---
-
- <a class="about__back" href="/"><< back</a>
 
 # Contact
 

@@ -1,30 +1,61 @@
-# Blog settings
-permalink: /blog/:title
 
+# SEO settings
+title: "Katie"
+title2: "McDonough" # default: ""
+description: "My personal website"
+keywords: "history, academia, mapping, France, European, French"
+url: http://kmcdono.com # site url
+baseurl: "/" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
 
-# My variables
-name: Katherine McDonough
-description: Historian
-url: kmcdono.com
-google_verification: null
-twitter_username: khetiwe24
-github_username: kmcdono2
+google_analytics: UA-XXXXX-XX
+repo: http://github.com/heiswayi/thinkspace
+disqus_shortname: 
+twitter_username: @khetiwe24
+comments: false
 
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
 
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+source: ./
+destination: ./_site
 
-
-# Sass
+# Sass configuration
 sass:
-  style: :compressed
-  sass_dir: _sass
+  sass_dir: assets/scss
+  style: compressed # expanded
 
+# Author settings
+author:
+  name     : false
+  job      : false
+  bio      : "I am a historian of France working primarily on the eighteenth century."
+  thumb    : 
+  email    : 
+  url      :
+  github   : 
+  twitter  : 
+  facebook : 
+  linkedin : 
 
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-highlighter: rouge
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@khetiwe24"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+  - slug : cv
+    title: CV  
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
