@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-[Email at Western Sydney University](k.mcdonough@westernsydney.edu.au)  
+k.mcdonough (at) westernsydney.edu.au
 [Western Sydney University Profile](http://westernsydney.edu.au/staff_profiles/uws_profiles/doctor_katie_mcdonough)  
 [Academia.edu Profile](https://westernsydney.academia.edu/KatherineMcDonough)  
 [Twitter](https://twitter.com/khetiwe24)
