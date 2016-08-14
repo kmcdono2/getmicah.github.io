@@ -1,0 +1,15 @@
+<ul class="menu">
+{% for kmcdono2 in site.data.menu %}
+    {% if kmcdono2.subcategories != null %}
+    <li><a href="{{ kmcdono2.href }}" class="page-link">{{ kmcdono2.title }}</a>
+    <ul class="sub-menu">
+    {% for subcategory in kmcdono2.subcategories %}
+    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+     <li><a href="{{ kmcdono2.href }}" class="page-link">{{ kmcdono2.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>
