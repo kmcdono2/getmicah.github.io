@@ -11,7 +11,7 @@ baseurl: "/" # apply repo name if use it under gh-pages branch
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/heiswayi/thinkspace
 disqus_shortname: 
-twitter_username: @khetiwe24
+twitter_username: khetiwe24
 comments: false
 
 # Build settings
