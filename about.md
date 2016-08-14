@@ -7,6 +7,7 @@ permalink: /about/
 [Email at Western Sydney University](k.mcdonough@westernsydney.edu.au)  
 [Western Sydney University Profile](http://westernsydney.edu.au/staff_profiles/uws_profiles/doctor_katie_mcdonough)  
 [Academia.edu Profile](https://westernsydney.academia.edu/KatherineMcDonough)
+[Twitter](https://twitter.com/khetiwe24)
 
 I am currently affiliated with a Digital
 Humanities Project on the [French Book Trade during the Enlightenment](http://fbtee.uws.edu.au/main/) at
