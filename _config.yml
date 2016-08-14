@@ -8,7 +8,7 @@ url: http://kmcdono.com # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
+google_analytics: UA-82466685-1
 repo: github.kmcdono2.io
 disqus_shortname: 
 twitter_username: khetiwe24

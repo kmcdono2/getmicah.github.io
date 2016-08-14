@@ -15,21 +15,21 @@ k.mcdonough@westernsydney.edu.au
 ### Professional History
 
 #### Positions
-2016-18	Research Associate in Digital Humanities. Mapping Print, Charting Enlightenment Project, Digital Humanities Research Group, Western Sydney University. Penrith/Parramatta, New South Wales, Australia  
+2016-18	**Research Associate in Digital Humanities**. Mapping Print, Charting Enlightenment Project, Digital Humanities Research Group, Western Sydney University. Penrith/Parramatta, New South Wales, Australia  
 
-2015-16	Visiting Assistant Professor of Early Modern European History. Department of History, Bates College. Lewiston, Maine  
+2015-16	**Visiting Assistant Professor of Early Modern European History**. Department of History, Bates College. Lewiston, Maine  
 
-2014–15	Lecturer in History of Science & Writing and Rhetoric. Dual Appointment in History and Philosophy of Science and Writing and Rhetoric Programs, Instructor in Science in the Making Integrated Learning Environment, Stanford University 
+2014–15	**Lecturer in History of Science & Writing and Rhetoric**. Dual Appointment in History and Philosophy of Science and Writing and Rhetoric Programs, Instructor in Science in the Making Integrated Learning Environment, Stanford University 
 Stanford, California  
 
-2013–14	Humanities and Arts Initiatives Coordinator. Office of the Dean, School of Humanities and Sciences, Stanford University  
+2013–14	**Humanities and Arts Initiatives Coordinator**. Office of the Dean, School of Humanities and Sciences, Stanford University  
 
 
 #### Education  
  
-PhD and MA	Stanford University, Ph.D. 2013, M.A. 2009 (Department of History) Dissertation: *Building the Roads: Expertise, Labor, and Politics in Provincial France, 1675-1791*, Keith M. Baker, advisor. Paula Findlen, Dan Edelstein, James P. Daughton, committee members.  
+PhD and MA	**Stanford University**, Ph.D. 2013, M.A. 2009 (Department of History) Dissertation: *Building the Roads: Expertise, Labor, and Politics in Provincial France, 1675-1791*, Keith M. Baker, advisor. Paula Findlen, Dan Edelstein, James P. Daughton, committee members.  
 
-BA	Johns Hopkins University, B.A. 2006 in History and French Literature, minor in Music (Phi Beta Kappa). Thesis: *Penser le pan-Celtisme en Bretagne: la politisation d’une nouvelle nationalité, 1792-1839*, David A. Bell, advisor.  
+BA	**Johns Hopkins University**, B.A. 2006 in History and French Literature, minor in Music (Phi Beta Kappa). Thesis: *Penser le pan-Celtisme en Bretagne: la politisation d’une nouvelle nationalité, 1792-1839*, David A. Bell, advisor.  
 		     	          
 
 ### Awards  
@@ -39,7 +39,7 @@ BA	Johns Hopkins University, B.A. 2006 in History and French Literature, minor i
 
 2016	Canadian Centre for Architecture, Visiting Scholar Program, Montreal, Quebec (declined)  
 
-2015-16	Smithsonian Libraries, Dibner Library Resident Scholar Program, June 2015 and November-December 2016  
+2015-16	Smithsonian Libraries, Dibner Library Resident Scholar Program, June 2015 and October-December 2016  
 
 2015	Camargo Foundation, Cassis, France, 11-week Fellowship (declined)  
 
@@ -57,6 +57,8 @@ BA	Johns Hopkins University, B.A. 2006 in History and French Literature, minor i
 
 
 #### Grants and Scholarships  
+
+2016	Early Career Researcher Funding, Western Sydney University  
 
 2016	Faculty Development Fund, Bates College  
 
@@ -133,13 +135,15 @@ In progress  Historical Gazetteer of 18th-century Brittany
 2010–11  Researcher and Cataloguer, French Revolution Digital Archive (frda.stanford.edu), Département des Estampes et de la Photographie, Bibliothèque nationale de France, Paris.  
 
 
-#### Short Essays and Radio  
+#### Short Essays, Blogging, and Radio  
+
+2016  Blog posts for the [French Book Trade in Enlightenment Europe Project blog](https://frenchbooktrade.wordpress.com/), "Report on Digitizing Enlightenment Symposium, August 10.
 
 2014  “Creating Online Presence for Early Career Researchers,” *Dissertation Reviews*, November 18.  
  	
 2013  “Stanford aims to democratize humanities professoriate,” *Stanford Report*, September 19.  
 
-2013  HASTAC (Humanities, Arts, Science, and Technology Advanced Collaboratory) Scholar Blogger, “Humanities On the Radio,” and “Digital History Project Management at Stanford.”  
+2013  Blog posts for HASTAC (Humanities, Arts, Science, and Technology Advanced Collaboratory), “Humanities On the Radio,” and “Digital History Project Management at Stanford.”  
 
 2012  Co-Host for discussion with Art Goldhammer on the 2012 French Presidential election, *The Peninsula Report* on KZSU, May 4.  
 
@@ -150,6 +154,8 @@ In progress  Historical Gazetteer of 18th-century Brittany
 #### Invited Talks  
  
 2017  Paper on the corvée in Brittany to be giving at the Université de Paris-1 (Sorbonne) for Professor Anne Conchon's seminar.  
+
+2016  "A Proposal for a Historical GIS of France," History @ Newcastle Seminar, Newcastle, NSW, Australia, August 12.  
 
 2016  “A Proposal for a Historical GIS of France,” Digitizing Enlightenment, Symposium Western Sydney University, Parramatta, NSW, Australia, July 12-13.  
 
@@ -175,6 +181,8 @@ In progress  Historical Gazetteer of 18th-century Brittany
   
 
 #### Conference Presentations  (* indicates panel organizer or co-organizer)  
+
+2016  Paper for panel on "Conceptualizing Place & Space," Social Science History Association Annual Conference, Chicago, IL, November 17-20.  
 
 2016  “Mapping Print, Charting Enlightenment Project at Western Sydney University,” Creating Spatial Historical Knowledge, German Historical Institute, Washington, D.C., October 20-22.  
 
@@ -220,7 +228,7 @@ In progress  Historical Gazetteer of 18th-century Brittany
 
 2017  Co-Organizer with Dan Edelstein and Paula Findlen,  Bakerfest, conference in honor of the career of Keith M. Baker, Stanford University, February 3-4.  
 
-2016  Assistant Organizer with Simon Burrows, George Rudé Seminar, Western Sydney University, Parramatta, NSW, Australia, July 13-16.  
+2016  Coordinator, Digitizing Enlightenment Symposium and George Rudé Seminar, Western Sydney University, Parramatta, NSW, Australia, July 12-16.  
 
 2012  Co-Organizer with Lauren Jarvis, Stanford History Archival Workshop Final Symposium, “Using Archives/The Future of Archives,” Stanford University, April 6. Invited speakers included Rick Prelinger, Tanya Hollis, and Sean Hanretta.  
 
@@ -378,7 +386,13 @@ German: reading proficiency and basic speaking
  
 #### Digital  
    
-Mapping (ArcGIS, QGIS, OSM), data visualization (Tableau), and database admin (MySQL): intermediate proficiency  
+Languages (PHP, Python): intermediate  
+
+Mapping (ArcGIS, QGIS, OSM): intermediate
+
+Data visualization (Tableau): intermediate  
+
+Databases (MySQL): intermediate  
 
 Web design (Wordpress/Dreamweaver/Jekyll): independent user  
  
