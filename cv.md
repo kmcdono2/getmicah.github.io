@@ -137,7 +137,7 @@ In progress  Historical Gazetteer of 18th-century Brittany
 
 #### Short Essays, Blogging, and Radio  
 
-2016  Blog posts for the [French Book Trade in Enlightenment Europe Project blog](https://frenchbooktrade.wordpress.com/), "Report on Digitizing Enlightenment Symposium, August 10.
+2016  Blog posts for the [French Book Trade in Enlightenment Europe Project blog](https://frenchbooktrade.wordpress.com/), "Report on Digitizing Enlightenment Symposium," August 10.
 
 2014  “Creating Online Presence for Early Career Researchers,” *Dissertation Reviews*, November 18.  
  	
