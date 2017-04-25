@@ -9,4 +9,6 @@ title: HASTAC Spotlight - Digital History Project Management at Stanford | HASTA
 wordpress_id: 74
 ---
 
-[Spring Spotlight #4 - Digital History Project Management at Stanford | HASTAC](http://hastac.org/blogs/kmcdono2/2013/04/08/spring-spotlight-4-digital-history-project-management-stanford#.UWXMOO-6pa4.wordpress).
+[Spring Spotlight #4 - Digital History Project Management at Stanford | HASTAC](http://hastac.org/blogs/kmcdono2/2013/04/08/spring-spotlight-4-digital-history-project-management-stanford).
+
+Interviews with Zephyr Frank, Elijah Meeks, and a few of the researchers for the Mapping the Republic of Letters project (Nicole Coleman, Dan Edelstein, and Paula Findlen). 

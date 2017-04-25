@@ -333,7 +333,7 @@ Graduate Representative, Ph.D. admissions in Early Modern European History, 2009
 
 **H-France Web and Social Media Editor**, July 2013–present.
 
-**Panelist, “Living in the Material World: The Future of the Humanities,” Commonwealth Club of California**, San Francisco, CA, October 14, 2013.
+**Panelist, “[Living in the Material World: The Future of the Humanities](http://kmcdono.com/2013/living-in-the-material-world-the-future-of-the-humanities-see-more-at-httpwww-commonwealthclub-orgevents2013-10-14living-material-world-future-humanitiessthash-rukekmfc-dpuf/),” Commonwealth Club of California**, San Francisco, CA, October 14, 2013.
 
 **Museum Docent Training Materials Developer, Cantor Arts Center**, Stanford University, 2013–14.
 
