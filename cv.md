@@ -375,11 +375,11 @@ German: reading proficiency and basic speaking
  
 #### Digital  
    
-Mapping (ArcGIS/QGIS/OSM) network analysis (Gephi) and visualization (Tableau/d3): intermediate user
+Mapping (ArcGIS/QGIS/OSM) network analysis and visualization (Gephi/Tableau/d3): intermediate user
 
 Databases (MySQL): intermediate user
 
-Programming (python/php): beginner
+Programming (python/php): intermediate user
 
 Web design/maintenance (HTML/CSS/Wordpress/Jekyll): independent user 
 
