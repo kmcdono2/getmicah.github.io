@@ -5,8 +5,11 @@ permalink: /cv/
 ---
 
 ## Katherine L McDonough
+
 5 Beauchamp Street
+
 Marrickville NSW 2204 Australia
+
 k.mcdonough@westernsydney.edu.au
 
 +61 (0)468 461 257 (AU) or +1 404 791 9147 (US)  
