@@ -141,13 +141,13 @@ In progress  “Listening to History.” Review essay on history in podcasts and
 
 #### Digital Projects  
 
-In progress	Geographic text analysis toolkit for historical French language sources (with Matje van de Camp and the [Language Technology Group](http://www.ltg.ed.ac.uk/software/geoparser/), University of Edinburgh). Summary of proposed work [here](http://commons.pelagios.org/groups/linked-pasts/forum/topic/experimenting-wner-and-georesolution-for-early-modern-french-texts/#post-2669).
+In progress	**Geographic text analysis toolkit for historical French language sources** (with Matje van de Camp and the [Language Technology Group](http://www.ltg.ed.ac.uk/software/geoparser/), University of Edinburgh). Summary of proposed work [here](http://commons.pelagios.org/groups/linked-pasts/forum/topic/experimenting-wner-and-georesolution-for-early-modern-french-texts/#post-2669).
 
-In progress	Mapping Diderot’s Encyclopédie (with Matje van de Camp & [ARTFL](http://encyclopedie.uchicago.edu/) project at the University of Chicago)
+In progress	**Mapping Diderot’s Encyclopédie** (with Matje van de Camp & [ARTFL](http://encyclopedie.uchicago.edu/) project at the University of Chicago)
 
-In progress	Mapping the French Novel Database and Vizualizations (with Western Sydney University)
+In progress	**Mapping the French Novel Database and Vizualizations** (with Western Sydney University)
 
-2010–11	Researcher, [French Revolution Digital Archive](https://frda.stanford.edu/)(collaboration between Stanford University and the Bibliothèque nationale de France)
+2010–11	Researcher, **[French Revolution Digital Archive](https://frda.stanford.edu/)**(collaboration between Stanford University and the Bibliothèque nationale de France)
 
 
 
@@ -259,40 +259,40 @@ In progress	Lesson on editing in OpenStreetMaps for [Programming Historian](http
 
 #### Conference and Workshop Organization
 
-2018	Society for the History of Authorship, Reading and Publishing Annual Conference, Sydney, June 26-29 (local organizing committee).
+2018	**Society for the History of Authorship, Reading and Publishing Annual Conference**, Sydney, June 26-29 (local organizing committee).
 
-2017	Bakerfest, conference to honor Professor Keith M. Baker, Stanford University, February 3-4 (organizer).
+2017	**Bakerfest, conference to honor Professor Keith M. Baker**, Stanford University, February 3-4 (organizer).
 
-2016	George Rudé Seminar, Western Sydney University, Parramatta, NSW, Australia, July 13-16 (coordinator).
+2016	**George Rudé Seminar**, Western Sydney University, Parramatta, NSW, Australia, July 13-16 (coordinator).
 
-2013	Hoagland Workshop on Data Visualization in the Humanities, Center for Spatial and Textual Analysis, Stanford University, Winter Quarter (coordinator).
+2013	**Hoagland Workshop on Data Visualization in the Humanities**, Center for Spatial and Textual Analysis, Stanford University, Winter Quarter (coordinator).
 
-2011-12	Stanford History Archival Workshop, Stanford University (founder).
+2011-12	**Stanford History Archival Workshop**, Stanford University (founder).
 
-2011	Scripting Revolutions conference, Stanford University, November 3–5 (coordinator).
+2011	**Scripting Revolutions conference**, Stanford University, November 3–5 (coordinator).
 
-2008-09	French Culture Workshop, Stanford Humanities Center (coordinator).
+2008-09	**French Culture Workshop**, Stanford Humanities Center (coordinator).
 
 
 
 ### Teaching Experience  
 
 
-2015-16	Bates College, Lewiston, ME, Visiting Assistant Professor, Early Modern European History. 
+2015-16	**Bates College, Lewiston, ME, Visiting Assistant Professor, Early Modern European History**. 
 Developed and taught undergraduate courses such as seminars on environment and politics in rural France, the environmental history of European empires, and the history of mapping (18th-21st c.). Innovations in Mapping: From Paper to Pixels received funding from the Bates Harward Center for Community Engagement to support field trips to local practitioners. This course counted towards the “Lab” science requirement at Bates, the first History course to do so. [Course website](https://course-wp.bates.edu/mappinginnovations/). [Story covering the course](https://www.bates.edu/news/2016/05/20/here-be-bates-a-history-lab-puts-the-college-on-the-map/). Three of my courses were cross-listed with Environmental Studies. 
 
-2014-15	Stanford University, Stanford, CA, Lecturer in History and Philosophy of Science and Writing & Rhetoric. 
+2014-15	**Stanford University, Stanford, CA, Lecturer in History and Philosophy of Science and Writing & Rhetoric**. 
 Taught as part of a team in a year-long, residential History of Science program, Science in the Making¬-Integrated Leaning Environment (SIMILE). Because of my joint appointment, I helped to coordinate lectures linked to discussion sections, field trips, and writing seminars. I designed the writing seminars to connect students with how people in the past explored and communicated about science, medicine, and technology. News about SIMILE [here](http://shc.stanford.edu/news/research/stanford-freshmen-create-medieval-inspired-artifacts-twenty-first-century) and [here](http://news.stanford.edu/news/2014/july/simile-residential-learning-070814.html).
 
-2012–13	Hume Writing Center, Stanford University, Writing Consultant. Provided individual tutoring for undergradaute and graduate students in humanities writing.
+2012–13	**Hume Writing Center, Stanford University, Writing Consultant**. Provided individual tutoring for undergradaute and graduate students in humanities writing.
 
-2012	Menlo College, Atherton, CA, Lecturer. Developed new course on World History (Deep History to 1500) to first-year business students through lens of UNESCO World Heritage sites. In two sections of 27 students each, the focus was on transitioning to college-level humanities coursework. Self-designed [course website](https://mcworldhistory.wordpress.com/). 
+2012	**Menlo College, Atherton, CA, Lecturer**. Developed new course on World History (Deep History to 1500) to first-year business students through lens of UNESCO World Heritage sites. In two sections of 27 students each, the focus was on transitioning to college-level humanities coursework. Self-designed [course website](https://mcworldhistory.wordpress.com/). 
 
-2007-11	Department of History, Stanford University, Teaching Fellow and Assistant. Designed and taught new required methodology course for history majors (Mobility in France and the Self: People, Products, and Ideas in Motion, 1700-2000). Prepared and led discussion sections for undergraduates in Global Human Geography, Machiavellian Moments, Europe 1500-1793, and Colonial and Revolutionary America. 
+2007-11	**Department of History, Stanford University, Teaching Fellow and Assistant**. Designed and taught new required methodology course for history majors (Mobility in France and the Self: People, Products, and Ideas in Motion, 1700-2000). Prepared and led discussion sections for undergraduates in Global Human Geography, Machiavellian Moments, Europe 1500-1793, and Colonial and Revolutionary America. 
 
-2006, 2008	Duke University, Talent Identification Program, Durham, NC and Paris, France, Instructor and Teaching Assistant. Instructor (2008) and teaching assistant (2006) for three-week study abroad course in Paris for 22 secondary students. Re-designed the course to feature on-site learning in 2008. 
+2006, 2008	**Duke University, Talent Identification Program, Durham, NC and Paris, France, Instructor and Teaching Assistant**. Instructor (2008) and teaching assistant (2006) for three-week study abroad course in Paris for 22 secondary students. Re-designed the course to feature on-site learning in 2008. 
 
-2004–05	Lycée Emile Zola, Rennes, France, English Teaching Assistant. Independent instruction of French high school students.       
+2004–05	**Lycée Emile Zola, Rennes, France, English Teaching Assistant**. Independent instruction of French high school students.       
 
 
  
@@ -328,21 +328,17 @@ Graduate Representative, Ph.D. admissions in Early Modern European History, 2009
 
 #### Public Outreach and Other Experience  
 
-Mapping Print, Charting Enlightenment Social Media Coordinator, June 2016-present.
+**H-France Web and Social Media Editor**, July 2013–present.
 
-Radio Show Host, “Listening to History,” Bates College Radio WRBC, January-June 2016.
+**Panelist, “Living in the Material World: The Future of the Humanities,” Commonwealth Club of California**, San Francisco, CA, October 14, 2013.
 
-H-France Web and Social Media Editor, July 2013–present.
+**Museum Docent Training Materials Developer, Cantor Arts Center**, Stanford University, 2013–14.
 
-Panelist, “Living in the Material World: The Future of the Humanities,” Commonwealth Club of California, San Francisco, CA, October 14, 2013.
+**News Producer, KZSU-Stanford Radio**, 2012–13.
 
-Museum Docent Training Materials Developer, Cantor Arts Center, Stanford University, 2013–14.
+**HASTAC Scholar**, 2012–13.
 
-News Producer, KZSU-Stanford Radio, 2012–13.
-
-HASTAC Scholar, 2012–13.
-
-Contributing Translator, Richard White, Le Middle Ground (Paris: Anacharsis, 2009), 2008.
+**Contributing Translator**, Richard White, Le Middle Ground (Paris: Anacharsis, 2009), 2008.
 
  
 
@@ -353,37 +349,45 @@ Contributing Translator, Richard White, Le Middle Ground (Paris: Anacharsis, 200
 #### Training  
 	 
 Training	
-2011, 2012, 2017 	Digital Humanities Summer Institute (DHSI), Victoria, BC, Canada, Digitization Fundamentals, Digital Humanities Databases, RDF and Linked Open Data
-2015				5-day Orientation to Teaching at a Liberal Arts College, Bates College, August
-2014				5-day Pedagogical Training for Teaching Writing to Undergraduates, Program in Writing & Rhetoric, Stanford University, September
-2013				THATCamp AHA (The Humanities and Technology unconference), New Orleans, LA, January
-2011				THATCamp Bay Area, Mountain View, CA, October
-2008				Undergraduate Methodology Course Development Workshops, Stanford History Department, Winter
-2007				Approaches to Teaching History Workshops, Stanford History Department, Spring
+2011, 2012, 2017 	**Digital Humanities Summer Institute (DHSI)**, Victoria, BC, Canada, Digitization Fundamentals, Digital Humanities Databases, RDF and Linked Open Data
+
+2015				**5-day Orientation to Teaching at a Liberal Arts College**, Bates College, August
+
+2014				**5-day Pedagogical Training for Teaching Writing to Undergraduates**, Program in Writing & Rhetoric, Stanford University, September
+
+2013				**THATCamp AHA** (The Humanities and Technology unconference), New Orleans, LA, January
+
+2011				**THATCamp Bay Area**, Mountain View, CA, October
+
+2008				**Undergraduate Methodology Course Development Workshops**, Stanford History Department, Winter
+
+2007				**Approaches to Teaching History Workshops**, Stanford History Department, Spring
 
 
 
 #### Languages  
 
  
-French: near native  
+**French**: near native  
 
-Italian: reading proficiency and basic speaking  
+**Italian**: reading proficiency and basic speaking  
 
-German: reading proficiency and basic speaking  
+**German**: reading proficiency and basic speaking  
 
  
 #### Digital  
    
-Mapping (ArcGIS/QGIS/OSM) network analysis and visualization (Gephi/Tableau/d3): intermediate user
+**Mapping** (ArcGIS/QGIS/OSM): independent user
 
-Databases (MySQL): intermediate user
+**Network analysis and visualization** (Gephi/Tableau/d3): intermediate user
 
-Programming (python/php): intermediate user
+**Databases** (MySQL): intermediate user
 
-Web design/maintenance (HTML/CSS/Wordpress/Jekyll): independent user 
+**Programming** (python/php): intermediate user
 
-Audio production (Audacity/Audition): independent user 
+**Web design/maintenance** (HTML/CSS/Wordpress/Jekyll): independent user 
+
+**Audio production** (Audacity/Audition): independent user 
  
  
 
