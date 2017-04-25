@@ -5,21 +5,21 @@ permalink: /cv/
 ---
 
 ## Katherine L McDonough
-Werrington South BB.G.39  
-Western Sydney University  
-Penrith, NSW 2751  
-k.mcdonough@westernsydney.edu.au  
-+61 468 461 257 (AU) or +1 404 791 9147 (US)  
+5 Beauchamp Street
+Marrickville NSW 2204 Australia
+k.mcdonough@westernsydney.edu.au
+
++61 (0)468 461 257 (AU) or +1 404 791 9147 (US)  
 
 				     		           
 ### Professional History
 
 #### Positions
-2016-18	**Research Associate in Digital Humanities**. Mapping Print, Charting Enlightenment Project, Digital Humanities Research Group, Western Sydney University. Penrith/Parramatta, New South Wales, Australia  
+2016-18	**Research Associate in Digital Humanities**. [Mapping Print, Charting Enlightenment Project](http://fbtee.uws.edu.au/mpce/), Digital Humanities Research Group, Western Sydney University. Parramatta, New South Wales, Australia  
 
 2015-16	**Visiting Assistant Professor of Early Modern European History**. Department of History, Bates College. Lewiston, Maine  
 
-2014–15	**Lecturer in History of Science & Writing and Rhetoric**. Dual Appointment in History and Philosophy of Science and Writing and Rhetoric Programs, Instructor in Science in the Making Integrated Learning Environment, Stanford University 
+2014–15	**Lecturer in History and Philosophy of Science & Program in Writing and Rhetoric**. Instructor in Science in the Making Integrated Learning Environment, Stanford University 
 Stanford, California  
 
 2013–14	**Humanities and Arts Initiatives Coordinator**. Office of the Dean, School of Humanities and Sciences, Stanford University  
@@ -27,7 +27,7 @@ Stanford, California
 
 #### Education  
  
-PhD and MA	**Stanford University**, Ph.D. 2013, M.A. 2009 (Department of History) Dissertation: *Building the Roads: Expertise, Labor, and Politics in Provincial France, 1675-1791*, Keith M. Baker, advisor. Paula Findlen, Dan Edelstein, James P. Daughton, committee members.  
+PhD and MA	**Stanford University**, Ph.D. 2013, M.A. 2009 (Department of History) Dissertation: *Building the Roads: Expertise, Labor, and Politics in Provincial France, 1675-1791*, Keith M. Baker, advisor. Paula Findlen, Dan Edelstein, James P. Daughton, committee members. 
 
 BA	**Johns Hopkins University**, B.A. 2006 in History and French Literature, minor in Music (Phi Beta Kappa). Thesis: *Penser le pan-Celtisme en Bretagne: la politisation d’une nouvelle nationalité, 1792-1839*, David A. Bell, advisor.  
 		     	          
@@ -58,7 +58,15 @@ BA	**Johns Hopkins University**, B.A. 2006 in History and French Literature, min
 
 #### Grants and Scholarships  
 
+2017	Digital Humanities Summer Institute, Course Scholarship
+
+2017	Early Career Researcher Research Infrastructure Funding, Western Sydney University
+
+2016	Pelagios Commons, Travel Bursary
+
 2016	Early Career Researcher Funding, Western Sydney University  
+
+2016	Harward Center for Community Partnerships Course Grant, Bates College
 
 2016	Faculty Development Fund, Bates College  
 
@@ -94,12 +102,19 @@ BA	**Johns Hopkins University**, B.A. 2006 in History and French Literature, min
 2012  “La corvée en Haute et Basse Bretagne: les pratiques et les plaintes des paroisses sur les grands chemins en 1769,” *Mémoires de la Société d’histoire et d’archéologie de Bretagne*, vol. XC, 329-349.  
 
 
+#### Book Chapters
+Forthcoming	“Putting the Eighteenth Century on the Map: A Proposal for Early Modern French 		Geospatial Data Development,” in *Digitizing Enlightenment* (Oxford Studies in the Enlightenment). 
+
+Forthcoming	“A Pre-History of Paying for Highways in Eighteenth-Century Brittany,” in *Le financement des infrastructures de transport* (Comité pour l’histoire économique et financière de la France). 
+
 #### Manuscripts Submitted  
 
-“Et cetera: Writing and Using Inventories of French Departmental Archives.” Submitted to *French Historical Studies* special issue on archives for 2017.  
+“A Transatlantic History of Making & Using French Archival Inventories.” Under revision for *French Historical Studies*.  
  
 
 #### Manuscripts in Preparation  
+
+With Matje van de Camp, “Mapping the Encyclopédie: Geographic Text Analysis for the French Enlightenment.” To be submitted to *Digital Humanities Quarterly*.
 
 “Provincializing Information in Old Regime France: Roads, Maps, and Dictionaries in Brittany.” To be submitted to *Critical Historical Studies*.  
 
@@ -117,35 +132,43 @@ BA	**Johns Hopkins University**, B.A. 2006 in History and French Literature, min
 
 #### Reviews  
 
-In progress  Review of *John Hardman, Louis XVI* (New Haven: Yale University Press, 2016) for Canadian Journal of History/Annales canadiennes d’histoire.  
+In progress	Review of Anne Conchon, *La corvée des grands chemins au 18e siècle* (Presses universitaires de Rennes, 2016) for *Annales de Bretagne et des Pays de l’Ouest*.
 
 In progress  “Listening to History.” Review essay on history in podcasts and radio shows such as La Fabrique de l’Histoire, In Our Time, Backstory, and Memory Palace. To be submitted to the *Los Angeles Review of Books*.  
 
-2015  Review of John C. Rule and Ben S. Trotter, *A World of Paper: Louis XIV, Colbert de Torcy, and the Rise of the Information State* (Montreal: McGill-Queen’s University Press, 2014) for Canadian Journal of History/Annales canadiennes d’histoire, Spring.  
+2015  Review of John C. Rule and Ben S. Trotter, *A World of Paper: Louis XIV, Colbert de Torcy, and the Rise of the Information State* (Montreal: McGill-Queen’s University Press, 2014) for *Canadian Journal of History/Annales canadiennes d’histoire*, Spring.  
 
 
 #### Digital Projects  
 
-In progress  Historical GIS of Early Modern France  
+In progress	Geographic text analysis toolkit for historical French language sources (with Matje van de Camp and the [Language Technology Group](http://www.ltg.ed.ac.uk/software/geoparser/), University of Edinburgh). Summary of proposed work [here](http://commons.pelagios.org/groups/linked-pasts/forum/topic/experimenting-wner-and-georesolution-for-early-modern-french-texts/#post-2669).
 
-In progress  Mapping the French Novel Database (Digitization and Crowdsourcing Experiment based on initial work of Angus Martin, Richard Frautschi, and Vivienne Mylne)  
-	  
-In progress  Historical Gazetteer of 18th-century Brittany  
+In progress	Mapping Diderot’s Encyclopédie (with Matje van de Camp & [ARTFL](http://encyclopedie.uchicago.edu/) project at the University of Chicago)
 
-2010–11  Researcher and Cataloguer, French Revolution Digital Archive (frda.stanford.edu), Département des Estampes et de la Photographie, Bibliothèque nationale de France, Paris.  
+In progress	Mapping the French Novel Database and Vizualizations (with Western Sydney University)
+
+2010–11	Researcher, [French Revolution Digital Archive](https://frda.stanford.edu/)(collaboration between Stanford University and the Bibliothèque nationale de France)
 
 
-#### Short Essays, Blogging, and Radio  
 
-2016  Blog posts for the [French Book Trade in Enlightenment Europe Project blog](https://frenchbooktrade.wordpress.com/), "Report on Digitizing Enlightenment Symposium," August 10.
+#### Short Essays and Radio  
 
-2014  “Creating Online Presence for Early Career Researchers,” *Dissertation Reviews*, November 18.  
- 	
-2013  “Stanford aims to democratize humanities professoriate,” *Stanford Report*, September 19.  
+In progress	Lesson on editing in OpenStreetMaps for [Programming Historian](http://programminghistorian.org/lessons/)
 
-2013  Blog posts for HASTAC (Humanities, Arts, Science, and Technology Advanced Collaboratory), “Humanities On the Radio,” and “Digital History Project Management at Stanford.”  
+2016	Regular posts for the French Book Trade in Enlightenment Europe [project blog](https://frenchbooktrade.wordpress.com/). 
 
-2012  Co-Host for discussion with Art Goldhammer on the 2012 French Presidential election, *The Peninsula Report* on KZSU, May 4.  
+2017	Social Media Strategist, Mapping Print, Charting Enlightenment Project, Western Sydney University (Twitter account [@EnlightenmentDH](https://twitter.com/EnlightenmentDH).
+
+2016	Radio Show Producer/Host, “Listening to History,” Bates College Radio WRBC, January-June.
+
+2014	“Creating Online Presence for Early Career Researchers,” [Dissertation Reviews](http://dissertationreviews.org/archives/10445), November 18.
+
+2013	“Stanford aims to democratize humanities professoriate,” [Stanford Report](http://news.stanford.edu/pr/2013/pr-ccny-humanities-exchange-091913.html), September 19.
+
+2013	HASTAC (Humanities, Arts, Science, and Technology Advanced Collaboratory) blog posts, “[Humanities On the Radio](https://www.hastac.org/wiki/humanities-radio),” and “[Digital History Project Management at Stanford](https://www.hastac.org/blogs/kmcdono2/2013/04/08/spring-spotlight-4-digital-history-project-management-stanford).”
+
+2012	Co-Host for discussion with Art Goldhammer on the 2012 French Presidential election, [The Peninsula Report](http://kzsunews.tumblr.com/post/22411130531/elizaonair-this-week-on-the-peninsula-report) on KZSU, May 4.
+
 
 
 ### Lectures and Presentations  
@@ -153,7 +176,9 @@ In progress  Historical Gazetteer of 18th-century Brittany
 
 #### Invited Talks  
  
-2017  Paper on the corvée in Brittany to be giving at the Université de Paris-1 (Sorbonne) for Professor Anne Conchon's seminar.  
+2017	“Public Works Laboratory: Experiments in Provincial Governance in Eighteenth-Century France,” History Seminar, University of Sydney, NSW, Australia, October 9.
+
+2017	“A la recherche des chiffres clés de la construction des routes bretonnes au XVIIIe siècle,” Économies et sociétés pré-industrielles Seminar, directed by Anne Conchon, Université de Paris-1 (Sorbonne), January 18.  
 
 2016  "A Proposal for a Historical GIS of France," History @ Newcastle Seminar, Newcastle, NSW, Australia, August 12.  
 
@@ -182,7 +207,13 @@ In progress  Historical Gazetteer of 18th-century Brittany
 
 #### Conference Presentations  (* indicates panel organizer or co-organizer)  
 
-2016  Paper for panel on "Conceptualizing Place & Space," Social Science History Association Annual Conference, Chicago, IL, November 17-20.  
+2017	“Mapping the Encyclopédie to Make an Early Modern Gazetteer,” 2nd Digitizing Enlightenment Workshop, Radboud University, Nijmegen, Netherlands, June 19-20.
+
+2017	“Mapping the French Novel: Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels,” Society for the History of Authorship, Reading and Publishing (SHARP) Conference, Victoria, BC, June 9-12.
+
+2016	“Creating an Early Modern Gazetteer” (Poster), 2nd International Linked Pasts Symposium, Pelagios Commons, Facultad de Filologia, UNED, Madrid, Spain, December 15-16.
+
+2016	“Seeing and Teaching Geospatial Uncertainty with Eighteenth-Century French Gazetteers,” Social Science History Association, Chicago, IL, Nov 17-20. 
 
 2016  “Mapping Print, Charting Enlightenment Project at Western Sydney University,” Creating Spatial Historical Knowledge, German Historical Institute, Washington, D.C., October 20-22.  
 
@@ -221,78 +252,48 @@ In progress  Historical Gazetteer of 18th-century Brittany
 
 #### Conference Participation  
 
+2016	Chair/Discussant, “Trading Networks Across Space and Time,” Social Science History Association Conference, Chicago, IL, November 17-20.
+
 2016  Chair, Panel on Peasants and the Early Modern French State, organized by Stephen Miller, Society for French Historical Studies Annual Meeting, Nashville, TN, March 3-6.  
 
 
-#### Conference Organization  
+#### Conference and Workshop Organization
 
-2017  Co-Organizer with Dan Edelstein and Paula Findlen,  Bakerfest, conference in honor of the career of Keith M. Baker, Stanford University, February 3-4.  
+2018	Society for the History of Authorship, Reading and Publishing Annual Conference, Sydney, June 26-29 (local organizing committee).
 
-2016  Coordinator, Digitizing Enlightenment Symposium and George Rudé Seminar, Western Sydney University, Parramatta, NSW, Australia, July 12-16.  
+2017	Bakerfest, conference to honor Professor Keith M. Baker, Stanford University, February 3-4 (organizer).
 
-2012  Co-Organizer with Lauren Jarvis, Stanford History Archival Workshop Final Symposium, “Using Archives/The Future of Archives,” Stanford University, April 6. Invited speakers included Rick Prelinger, Tanya Hollis, and Sean Hanretta.  
+2016	George Rudé Seminar, Western Sydney University, Parramatta, NSW, Australia, July 13-16 (coordinator).
 
-2011  Coordinator, Scripting Revolutions conference (organized by Dan Edelstein and Keith Baker), Stanford University, November 3–5.  
+2013	Hoagland Workshop on Data Visualization in the Humanities, Center for Spatial and Textual Analysis, Stanford University, Winter Quarter (coordinator).
+
+2011-12	Stanford History Archival Workshop, Stanford University (founder).
+
+2011	Scripting Revolutions conference, Stanford University, November 3–5 (coordinator).
+
+2008-09	French Culture Workshop, Stanford Humanities Center (coordinator).
 
 
 
 ### Teaching Experience  
 
 
-#### Courses Taught  
+2015-16	Bates College, Lewiston, ME, Visiting Assistant Professor, Early Modern European History. 
+Developed and taught undergraduate courses such as seminars on environment and politics in rural France, the environmental history of European empires, and the history of mapping (18th-21st c.). Innovations in Mapping: From Paper to Pixels received funding from the Bates Harward Center for Community Engagement to support field trips to local practitioners. This course counted towards the “Lab” science requirement at Bates, the first History course to do so. [Course website](https://course-wp.bates.edu/mappinginnovations/). [Story covering the course](https://www.bates.edu/news/2016/05/20/here-be-bates-a-history-lab-puts-the-college-on-the-map/). Three of my courses were cross-listed with Environmental Studies. 
 
+2014-15	Stanford University, Stanford, CA, Lecturer in History and Philosophy of Science and Writing & Rhetoric. 
+Taught as part of a team in a year-long, residential History of Science program, Science in the Making¬-Integrated Leaning Environment (SIMILE). Because of my joint appointment, I helped to coordinate lectures linked to discussion sections, field trips, and writing seminars. I designed the writing seminars to connect students with how people in the past explored and communicated about science, medicine, and technology. News about SIMILE [here](http://shc.stanford.edu/news/research/stanford-freshmen-create-medieval-inspired-artifacts-twenty-first-century) and [here](http://news.stanford.edu/news/2014/july/simile-residential-learning-070814.html).
 
-**Bates College, Lewiston, ME**  
+2012–13	Hume Writing Center, Stanford University, Writing Consultant. Provided individual tutoring for undergradaute and graduate students in humanities writing.
 
-*The Secret History of French Peasants* (2016). Intermediate course on the transformation of France’s early modern agricultural society into a modern industrial one. Special attention to the role of rural communities in pursuing economic and political change. 14 students (cross-listed with Environmental Studies and French).  
+2012	Menlo College, Atherton, CA, Lecturer. Developed new course on World History (Deep History to 1500) to first-year business students through lens of UNESCO World Heritage sites. In two sections of 27 students each, the focus was on transitioning to college-level humanities coursework. Self-designed [course website](https://mcworldhistory.wordpress.com/). 
 
+2007-11	Department of History, Stanford University, Teaching Fellow and Assistant. Designed and taught new required methodology course for history majors (Mobility in France and the Self: People, Products, and Ideas in Motion, 1700-2000). Prepared and led discussion sections for undergraduates in Global Human Geography, Machiavellian Moments, Europe 1500-1793, and Colonial and Revolutionary America. 
 
-*Innovations in Mapping: From Paper to Pixels* (2016). Experiential lab course comparing 18th and 21st century mapping. Included fieldwork with historical survey instruments, field trips to local map experts (Anne  Knowles and Matthew Edney), and meetings and projects with important mapping organizations (Stamen Design, Historypin, Red Cross Missing Maps, OSM, Cadasta, USGS). 32 students, 5-week intensive course (cross-listed with Environmental Studies, fulfilled Bates general education “Lab” requirement). Bates News [story about the course](https://www.bates.edu/news/2016/05/20/here-be-bates-a-history-lab-puts-the-college-on-the-map/).  
+2006, 2008	Duke University, Talent Identification Program, Durham, NC and Paris, France, Instructor and Teaching Assistant. Instructor (2008) and teaching assistant (2006) for three-week study abroad course in Paris for 22 secondary students. Re-designed the course to feature on-site learning in 2008. 
 
+2004–05	Lycée Emile Zola, Rennes, France, English Teaching Assistant. Independent instruction of French high school students.       
 
-*Early Modern European History* (2016). Introduction to 1400-1750 in Europe and European empires with a focus on the development of the state and of civil society, consumerism and manufacturing, and explanations of the natural and supernatural world. 27 students.  
-
-
-*Enlightenment and Revolution* (2015). Intermediate course on the history of the Enlightenment and the French Revolution. Major assignments include essays on the French Encyclopédie and its digital future, and the origins of the French Revolution. 5 students (cross-listed with European Studies).  
-
-
-*Nature and Empire* (2015). Writing-intensive course preparing students to write the History or Environmental Studies thesis. Units on the Columbian Exchange, Atlantic fishing, cotton and capitalism, and tourism and informal empire. 10 students (cross-listed with Environmental Studies).  
-
-
-**Stanford University, Stanford, CA**  
-
-**Science in the Making-Integrated Leaning Environment (SIMILE) and the Program in Writing and Rhetoric.** [About](http://shc.stanford.edu/news/research/stanford-freshmen-create-medieval-inspired-artifacts-twenty-first-century) [SIMILE](http://news.stanford.edu/news/2014/july/simile-residential-learning-070814.html)  
- 
-*Rhetoric of the Invention and Re-Invention of Science*. Instructor of record (2014). 15 students).  
-
-
-*Rhetoric of the Scientific Revolution*. Instructor of record (2015). 21 students. Students in these courses practiced research methods and wrote primary-source based argumentative papers on the history of science, technology, or medicine. Focus on linking changes in the way scientists and other scholars were writing in the ancient, medieval, or early modern period and the way that students were learning to join the scholarly community of writers.  
-
-
-**Department of History**  
-
-*Mobility in France and the Self: People, Products, and Ideas in Motion, 1700-2000*. Instructor of record (2009) for methods course for history majors culminating in a primary-source research paper. 4 students.   
-
-
-*Global Human Geography*. Teaching Assistant (2008). 30 students.  
-
-*Machiavellian Moments, Europe 1500-1793*. Teaching Assistant (2008). 12 students.  
-
-*Colonial and Revolutionary America*. Teaching Assistant (2007). 30 students.  
-
-
-**Menlo College**, Atherton, CA  
-
-*World History I (Deep History-1500)*. Instructor of record (2012) for first-year survey course with focus on transitioning to college-level coursework.  2 sections of 27 students each. [Course website](mcworldhistory.wordpress.com)  
-
-
-**Duke University**, Talent Identification Program (TIP), Durham, NC and Paris, France  
-
-*Philosophic Quest: Paris through the Eyes of its Greatest Minds*. Instructor of record (2008) for three-week study abroad course in Paris for gifted high school students. Designed around on-site experiences in the city. 22 students.   
-
-*Cultural Adventures in the City of Light*. Teaching Assistant (2006). 18 students.   
-
-*Art History*. Teaching Assistant (2006). 20 students.  
 
  
 #### Theses Advised  
@@ -302,76 +303,64 @@ Primary Advisor: Logan Pettinato, “Rethinking the Unthinkable: An Analysis of 
 
 Invited Thesis Committee Member: Madeleine McCabe, “Private Union, Public Conflit: Life and Labor at Michelin in the Twentieth Century” (Bates College Honors thesis, 2016).  
 
-
-#### Other Teaching  
-
-2014-15  Co-organizer, Burbank Writing Workshops (academic writing events for first-year undergraduates), Stanford University  
-
-2013  Session Leader, Using Audio and Video in Digital History, THATCamp AHA, New Orleans, LA  
-
-2012–13  Writing Consultant, Hume Writing Center, Stanford University  
-  
-2013  Graduate Student Coordinator, Hoagland Workshop on Data Visualization in the Humanities, Center for Spatial and Textual Analysis, Stanford University, Winter Quarter  
-
-2011  Course Assistant, Revolution! A Global History from 1640 to the Present, History Department, Stanford University, Fall Quarter  
-
-2004–05  English Teaching Assistant, Lycée Emile Zola, Rennes, France. Independent instruction of French high school students.  
 	         
-
 
 ### Service and Outreach  
 
 
-#### University Service  
+#### Institutional Service   (Stanford University)
 
-Member, Planning Committee for new Humanities Dorm, Stanford University, 2014-15.  
+Institutional Service (Stanford University)
 
-Search Committee Member, Career Counselors for Humanities PhDs and Diversity Networks, Stanford University, Fall 2013 and Summer 2014.  
+Planning Committee for new Humanities Dorm, 2014-15.
 
-Member, Dean’s Task Force for Undergraduate Education in the Humanities, School of Humanities and Sciences, Stanford University, January–June 2014.  
+Search Committee, Career Counselors for Humanities PhDs and Diversity Networks, Fall 2013 and Summer 2014.
 
-Fellowship Developer, H-STEP Fellowship (for Stanford humanities PhD recipients to earn an MA in secondary education), 2013–14. Featured as an innovative program in MLA Report on Doctoral Education, May 2014.  
+Dean’s Task Force for Undergraduate Education in the Humanities, School of Humanities and Sciences, January–June 2014.
 
-Humanities Liaison to Career Development Center, Undergraduate Admissions, and Vice Provosts for Graduate and Undergraduate Education, Stanford University, 2013–14.  
+H-STEP Fellowship Coordinator (for humanities PhD recipients to earn an MA in secondary education), 2013–14. Featured as an innovative program in MLA Report on Doctoral Education, May 2014.
 
-Founder, Stanford History Archival Workshop (SHAW), 2011–12.  
+Humanities Liaison to Career Development Center, Undergraduate Admissions, and Vice Provosts for Graduate and Undergraduate Education, 2013–14.
 
-Graduate Representative, Ph.D. admissions in Early Modern European History, Stanford University, 2009.  
+Graduate Representative, Ph.D. admissions in Early Modern European History, 2009.
 
-Graduate Student Coordinator, French Culture Workshop, Stanford Humanities Center, January 2008–June 2009.  
 
 
 #### Public Outreach and Other Experience  
 
-Radio Show Host, “Listening to History,” Bates College Radio WRBC, January-June 2016.  
+Mapping Print, Charting Enlightenment Social Media Coordinator, June 2016-present.
 
-H-France Web Editor, July 2013–present.  
+Radio Show Host, “Listening to History,” Bates College Radio WRBC, January-June 2016.
 
-Panelist, “Living in the Material World: The Future of the Humanities,” Commonwealth Club of California, San Francisco, CA, October 14, 2013.  
+H-France Web and Social Media Editor, July 2013–present.
 
-Museum Docent Training Materials Developer, Cantor Arts Center, Stanford University, 2013–14.  
+Panelist, “Living in the Material World: The Future of the Humanities,” Commonwealth Club of California, San Francisco, CA, October 14, 2013.
 
-Contributing News Producer, KZSU-Stanford Radio station, 2012–13.  
+Museum Docent Training Materials Developer, Cantor Arts Center, Stanford University, 2013–14.
 
-HASTAC Scholar, 2012–13.  
+News Producer, KZSU-Stanford Radio, 2012–13.
 
-Contributing Translator, Richard White, Le Middle Ground (Paris: Anacharsis, 2009), 2008.  
+HASTAC Scholar, 2012–13.
+
+Contributing Translator, Richard White, Le Middle Ground (Paris: Anacharsis, 2009), 2008.
+
+ 
 
 
-### Other Training and Proficiencies  
+###  Training and Proficiencies  
 
 
 #### Training  
 	 
-2014  Introduction to Bookbinding, San Francisco Center for the Book, August  
+Training	
+2011, 2012, 2017 	Digital Humanities Summer Institute (DHSI), Victoria, BC, Canada, Digitization Fundamentals, Digital Humanities Databases, RDF and Linked Open Data
+2015				5-day Orientation to Teaching at a Liberal Arts College, Bates College, August
+2014				5-day Pedagogical Training for Teaching Writing to Undergraduates, Program in Writing & Rhetoric, Stanford University, September
+2013				THATCamp AHA (The Humanities and Technology unconference), New Orleans, LA, January
+2011				THATCamp Bay Area, Mountain View, CA, October
+2008				Undergraduate Methodology Course Development Workshops, Stanford History Department, Winter
+2007				Approaches to Teaching History Workshops, Stanford History Department, Spring
 
-2013  THATCamp AHA (The Humanities and Technology unconference), January  
-
-2011, 2012  Digital Humanities Summer Institute (DHSI), Victoria, BC, Digitization Fundamentals, Digital Humanities Databases  
-
-2011  THATCamp Bay Area, October  
-
-2007  German Language Course, Goethe Institut, Berlin, Germany, Summer  
 
 
 #### Languages  
@@ -386,17 +375,16 @@ German: reading proficiency and basic speaking
  
 #### Digital  
    
-Languages (PHP, Python): intermediate  
+Mapping (ArcGIS/QGIS/OSM) network analysis (Gephi) and visualization (Tableau/d3): intermediate user
 
-Mapping (ArcGIS, QGIS, OSM): intermediate
+Databases (MySQL): intermediate user
 
-Data visualization (Tableau): intermediate  
+Programming (python/php): beginner
 
-Databases (MySQL): intermediate  
+Web design/maintenance (HTML/CSS/Wordpress/Jekyll): independent user 
 
-Web design (Wordpress/Dreamweaver/Jekyll): independent user  
+Audio production (Audacity/Audition): independent user 
  
-Audio production and editing (Audacity): independent user  
  
 
 ### Affiliations  
