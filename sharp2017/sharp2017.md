@@ -67,13 +67,13 @@
 
 
 ###### Defining the fields for data capture
-
+![Alt text](images/MMF_fields)
 
 ###### Adopting database model for MMF2 (Notebook software)
 
 
 ###### Developing a method for differentiating between works and editions (first editions/subsequent editions)
-
+![Alt text](images/MMF_identifiers)
 
 ###### Choosing at first to limit the bibliography to 1750-1800, then expanding the digitized database to the entire century
 
@@ -89,19 +89,39 @@
 
 
 ##### Our interpretative interventions
+
+
 ###### Focus on data relationships, shift to relational database
 ![Alt text](images/notebook_export.png)
 
 
 ###### Connecting metadata
+![Alt text](images/BnF_graph)
+
+
 ![Alt text](images/bnf_export.png)
+
+
 ![Alt text](images/BnF_FRBR_example.jpg)
 
 
 ###### Thinking geographically
+
+
+###### False/fictitious publication places
+
+---
+
+####### A Sodome et à Cythère. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent.
+
+---
+
+####### A Bagatelle, A Démocratis, La Haye, aux dépens de la Mecque
+
 ![Alt text](images/fictitious_imprints.png)
 
 
+####### Locating places
 ![Alt text](images/place_geolocation_errors.png)
 
 
@@ -109,18 +129,21 @@
 ![Alt text](images/FBTEE_download.png)
 
 
+![Alt text](images/linked_places_table)
+
+
+![Alt text](images/BnF_libraire_scrape)
+
+
 ##### Lessons
-###### Bibliographic metadata is a pathway from books to people & places (focus on booksellers, publication and reading geographies)
-
-##### Results
-###### 21553 records of works and editions
-###### 
+###### Pathway from books to people & places
+###### The spaces in which we access and interpret historical sources 
 
 
-
-
-
-
+##### Results To Come!
+###### From table to database: transforming 21553 records of works and editions 
+###### Locating 2830 Library locations and ~ 600 publication places
+###### Links to existing FBTEE database + others
 
 
 
