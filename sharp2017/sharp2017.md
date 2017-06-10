@@ -40,7 +40,6 @@
 - What words appear most frequently in titles?
 - What can we learn about stated publication places and publishers?
 
-
 #### AM @ SHARP 2016:
 - Would a large number of present-day library locations reveal not only large print runs but also something about the reception of works in different geographical areas?
 - Is there a correlation between a large number of re-editions and a large number of surviving copies? 
