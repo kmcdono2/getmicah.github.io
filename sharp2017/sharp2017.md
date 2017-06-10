@@ -41,35 +41,17 @@
 ###### Is there a correlation between a large number of re-editions and a large number of surviving copies? 
 
 
-
-#### RF and AM @ ISECS 2015: Micro & Macro questions
-##### **Micro** = 
-
-###### researchers seek more detailed descriptions of individual first and re-editions for patterns of actual production locations, print materials, and font styles
-
----
-
-##### **Macro** = 
-###### patterns of content, narrative form and location as these evolved over time and space 
-
-
 ##### 2. What interpretative interventions were made?
-
-
 ###### Defining the fields for data capture
 ![Alt text](images/MMF_fields.png)
-
-###### Adopting database model for MMF2 (Notebook software)
 
 
 ###### Developing a method for differentiating between works and editions (first editions/subsequent editions)
 ![Alt text](images/MMF_identifiers.png)
 
-###### Choosing at first to limit the bibliography to 1750-1800, then expanding the digitized database to the entire century
 
-
-###### Choosing to travel to specific libraries where edition examples could be located, later using WorldCat/CCF/COPAC/KVK/emails to librarians to verify holdings
-
+###### Connecting edition data with current holdings
+![Alt text](images/edition_location.png)
 
 ##### 3. What is new about the MMF3 phase?
 
@@ -102,11 +84,11 @@
 
 ---
 
-####### A Sodome et à Cythère. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent.
+####### A Sodome et à Cythère. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent
 
 ---
 
-####### A Bagatelle, A Democratis, La Haye, aux depens de la Mecque
+####### A Bagatelle
 
 ![Alt text](images/fictitious_imprints.png)
 
@@ -126,14 +108,17 @@
 
 
 ##### Lessons
-###### Pathway from books to people & places
-###### The spaces in which we access and interpret historical sources 
+- Bibliographic data isn't just about books
+- Databases are an intermediary between sources and researchers - what & who these are changes over time
+- Inter-generational research projects highlight the effects of "datafication" of the archive
+
 
 
 ##### Results To Come!
-###### From table to database: transforming 21553 records of works and editions 
-###### Locating 2830 Library locations and ~ 600 publication places
-###### Links to existing FBTEE database + others
+- Transforming 21553 records of works and editions 
+- Locating 2830 Library locations and ~ 600 publication places
+- Linking to existing FBTEE database + others
+- Hoping for a WorldCat API connection
 
 
 
