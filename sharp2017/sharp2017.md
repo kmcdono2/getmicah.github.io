@@ -1,7 +1,7 @@
 #### SHARP2017
 
-#### Mapping the French Novel
-##### Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels
+#### **Mapping the French Novel**
+##### **Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels**
 ---
 ###### Katie McDonough
 ###### Western Sydney University
@@ -111,6 +111,10 @@
 
 ##### Lessons
 ###### Bibliographic metadata is a pathway from books to people & places (focus on booksellers, publication and reading geographies)
+
+##### Results
+###### 21553 records of works and editions
+###### 
 
 
 
