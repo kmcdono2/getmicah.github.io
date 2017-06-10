@@ -3,56 +3,56 @@
 #### Mapping the French Novel
 ##### Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels
 
-Katie McDonough
-Western Sydney University
-@khetiwe24
+###### Katie McDonough
+###### Western Sydney University
+###### @khetiwe24
 
-http://fbtee.uws.edu.au/mpce/
-
-
-#### MMF1		
-1970s	Angus Martin, Vivienne Mylne, and Richard Frautschi, eds. Bibliographie du genre romanesque français, 1700-1750 (London: Mansell Information Publishing, 1977)
-
-#### MMF2		
-1980s-2010s AM, VM, RF continue revising original entries, adding pre-1700 entries and 1700-1750 entries in computer database
-
-#### MMF3		
-2016-18	AM collaborates with Mapping Print, Charting Enlightenment project
+###### http://fbtee.uws.edu.au/mpce/
 
 
-### 1. What research questions drove database development?
-### 2. What interpretative interventions were made?
-### 3. What is new about the MMF3 phase?
+#### MMF1		1970s	
+###### Angus Martin, Vivienne Mylne, and Richard Frautschi, eds. *Bibliographie du genre romanesque français, 1700-1750* (London: Mansell Information Publishing, 1977)
+---
+#### MMF2		1980s-2010s 
+###### AM, VM, RF continue revising original entries, adding pre-1700 entries and 1700-1750 entries in computer database
+---
+#### MMF3		2016-18	
+###### AM collaborates with Mapping Print, Charting Enlightenment project
 
 
-### 1. What research questions drove database development?
-#### Mylne 1981:
-#### 'Statistics of re-editions…can serve as a criterion of the relative popularity of various works, and this in turn may help to explain certain fashions or trends among writers.' (The Eighteenth-Century Novel, 275) 
+#### 1. What research questions drove database development?
+#### 2. What interpretative interventions were made?
+#### 3. What is new about the MMF3 phase?
 
 
-#### Martin/Frautschi, “French Prose Fiction Published between 1701 and 1750,” Eighteenth-Century Fiction, 2002: 
-#### What is the level of production of first editions and re-editions?
-#### Who are the most prolific authors of the 18th c?
-#### What were the most reprinted fiction works?
-#### What words appear most frequently in titles?
-#### What can we learn about stated publication places and publishers?
+##### 1. What research questions drove database development?
+###### Mylne 1981:
+> Statistics of re-editions ... can serve as a criterion of the relative popularity of various works, and this in turn may help to explain certain fashions or trends among writers. (*The Eighteenth-Century Novel*, 275) 
+---
+###### Martin/Frautschi, French Prose Fiction Published between 1701 and 1750, *Eighteenth-Century Fiction*, 2002: 
+> What is the level of production of first editions and re-editions?
+> Who are the most prolific authors of the 18th c?
+> What were the most reprinted fiction works?
+> What words appear most frequently in titles?
+> What can we learn about stated publication places and publishers?
 
 
 #### AM in 2012:
-##### How can documenting 18th-c. editions of works first printed before 1700 shed light on “the rise and fall in popularity of authors and of titles over three centuries”? (proposal to Voltaire Foundation)
+##### How can documenting 18th-c. editions of works first printed before 1700 shed light on 
+> the rise and fall in popularity of authors and of titles over three centuries?
 
 
 #### AM @ SHARP 2016:
-##### “Would a large number of present-day library locations reveal not only large print runs but also something about the reception of works in different geographical areas?” 
-##### “Is there a correlation between a large number of re-editions and a large number of surviving copies? 
-How does one interpret ‘collaborative’ editions, where the same printing is issued under a number of different title pages bearing the names of different publishers? What does it mean when there are a large number of library copies for some editions and not for others?
- Do pirate editions achieve lower or higher numbers of copies? 
-To what extent does the current geographical representation of copies coincide with their original distribution in the eighteenth century?” 
+> Would a large number of present-day library locations reveal not only large print runs but also something about the reception of works in different geographical areas?
+> Is there a correlation between a large number of re-editions and a large number of surviving copies? 
+> How does one interpret ‘collaborative’ editions, where the same printing is issued under a number of different title pages bearing the names of different publishers? What does it mean when there are a large number of library copies for some editions and not for others?
+> Do pirate editions achieve lower or higher numbers of copies? 
+> To what extent does the current geographical representation of copies coincide with their original distribution in the eighteenth century?
 
 
 #### RF and AM @ ISECS 2015: Micro & Macro questions
-##### Micro = 'researchers seek more detailed descriptions of individual first and re-editions' for 'patterns of actual production locations, print materials, and font styles' 
-##### Macro = 'patterns of content, narrative form and location as these evolved' over time and space 
+##### Micro = researchers seek more detailed descriptions of individual first and re-editions for patterns of actual production locations, print materials, and font styles
+##### Macro = patterns of content, narrative form and location as these evolved over time and space 
 
 
 #### 2. What interpretative interventions were made?
