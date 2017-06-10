@@ -1,4 +1,3 @@
-### SHARP2017
 **Mapping the French Novel**
 
 **Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels**
