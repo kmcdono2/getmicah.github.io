@@ -1,19 +1,23 @@
 #### SHARP2017
-#### Katie McDonough
-##### Western Sydney University
-##### @khetiwe24
-
 
 #### Mapping the French Novel
 ##### Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels
 
+Katie McDonough
+Western Sydney University
+@khetiwe24
 
-##### http://fbtee.uws.edu.au/mpce/
+http://fbtee.uws.edu.au/mpce/
 
 
-#### MMF1		1970s	Angus Martin, Vivienne Mylne, and Richard Frautschi, eds. Bibliographie du genre romanesque français, 1700-1750 (London: Mansell Information Publishing, 1977)
-#### MMF2		1980s-2010s AM, VM, RF continue revising original entries, adding pre-1700 entries and 1700-1750 entries in computer database
-#### MMF3		2016-18	AM collaborates with Mapping Print, Charting Enlightenment project
+#### MMF1		
+1970s	Angus Martin, Vivienne Mylne, and Richard Frautschi, eds. Bibliographie du genre romanesque français, 1700-1750 (London: Mansell Information Publishing, 1977)
+
+#### MMF2		
+1980s-2010s AM, VM, RF continue revising original entries, adding pre-1700 entries and 1700-1750 entries in computer database
+
+#### MMF3		
+2016-18	AM collaborates with Mapping Print, Charting Enlightenment project
 
 
 ### 1. What research questions drove database development?
