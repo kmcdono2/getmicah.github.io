@@ -70,7 +70,7 @@ To what extent does the current geographical representation of copies coincide w
 
 ### Our interpretative interventions:
 ##### Focus on data relationships, shift to relational database
-![Alt text](sharp2017/notebook_export.png)
+![Alt text](images/notebook_export.png)
 
 ##### Identifying first editions as “works,” subsequent editions as “manifestations,” and library copies as “instances” (adopting a FRBR framework)
 ![Alt text](/Users/katherinemcdonough/Documents/Github/kmcdono2.github.io/sharp2017/BnF_FRBR_example.jpg)
