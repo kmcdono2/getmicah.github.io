@@ -27,9 +27,9 @@
 ###### AM collaborates with Mapping Print, Charting Enlightenment project
 
 
-#### 1. What research questions drove database development?
-#### 2. What interpretative interventions were made?
-#### 3. What is new about the MMF3 phase?
+1. What research questions drove database development?
+2. What interpretative interventions were made?
+3. What is new about the MMF3 phase?
 
 
 ##### 1. What research questions drove database development?
