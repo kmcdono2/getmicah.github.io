@@ -73,6 +73,7 @@ FRBR
 
 
 False/fictitious publication places 
+
 Henry Cotton, **A Typographical Gazetteer** (Oxford, 1831)
 ![Alt text](images/fictitious_imprints.png)
 
@@ -101,6 +102,7 @@ Locating places
 #### Lessons for now
 
 Databases are an **intermediary** between sources and researchers - what & who these are changes over time (intentional design for future users)
+
 Inter-generational research projects highlight the effects of **datafication** of the archival sources (layers of interpretation, coding)
 
 
@@ -108,6 +110,9 @@ Inter-generational research projects highlight the effects of **datafication** o
 #### Results To Come!
 
 Transforming 21553 records of works and editions
+
 Locating 2830 repositories and ~ 600 publication places
+
 Linking to existing FBTEE database + others
+
 Hoping for a WorldCat API connection
