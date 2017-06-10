@@ -26,7 +26,7 @@ AM collaborates with Mapping Print, Charting Enlightenment project
 3. What is new about the MMF3 phase?
 
 
-#### What research questions drove database development?
+#### What research questions drove/drive database development?
 
 ###### Martin/Frautschi 2002: 
 
@@ -66,6 +66,7 @@ Focus on data relationships, shift to relational database
 ###### Connecting metadata
 ![Alt text](images/BnF_graph.jpg)
 
+
 FRBR
 ![Alt text](images/BnF_FRBR_example.jpg)
 
@@ -79,10 +80,13 @@ Henry Cotton, *A Typographical Gazetteer* (Oxford, 1831)
 ![Alt text](images/fictitious_imprints.png)
 
 
---> A Sodome et a Cythere. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent.
+Ex.: A Sodome et a Cythere. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent.
 
 
 Locating places
+
+
+![Alt text](images/linked_places_table.png)
 
 
 ![Alt text](images/place_geolocation_errors.png)
@@ -92,9 +96,6 @@ Locating places
 
 
 ![Alt text](images/FBTEE_download.png)
-
-
-![Alt text](images/linked_places_table.png)
 
 
 ![Alt text](images/BnF_libraire_scrape.png)
