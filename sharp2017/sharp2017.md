@@ -1,14 +1,14 @@
-### SHARP2017
-### Katie McDonough
-#### Western Sydney University
-#### @khetiwe24
+#### SHARP2017
+#### Katie McDonough
+##### Western Sydney University
+##### @khetiwe24
 
 
-### Mapping the French Novel
-#### Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels
+#### Mapping the French Novel
+##### Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels
 
 
-#### http://fbtee.uws.edu.au/mpce/
+##### http://fbtee.uws.edu.au/mpce/
 
 
 #### MMF1		1970s	Angus Martin, Vivienne Mylne, and Richard Frautschi, eds. Bibliographie du genre romanesque français, 1700-1750 (London: Mansell Information Publishing, 1977)
@@ -23,7 +23,7 @@
 
 ### 1. What research questions drove database development?
 #### Mylne 1981:
-#### “Statistics of re-editions…can serve as a criterion of the relative popularity of various works, and this in turn may help to explain certain fashions or trends among writers.” (The Eighteenth-Century Novel, 275) 
+#### 'Statistics of re-editions…can serve as a criterion of the relative popularity of various works, and this in turn may help to explain certain fashions or trends among writers.' (The Eighteenth-Century Novel, 275) 
 
 
 #### Martin/Frautschi, “French Prose Fiction Published between 1701 and 1750,” Eighteenth-Century Fiction, 2002: 
@@ -47,12 +47,8 @@ To what extent does the current geographical representation of copies coincide w
 
 
 #### RF and AM @ ISECS 2015: Micro & Macro questions
-##### Micro = “researchers seek more detailed descriptions of individual first and re-editions” for “patterns of actual production locations, print materials, and font styles” 
-##### Macro = “patterns of content, narrative form and location as these evolved’ over time and space 
-
-
-#### Quantitative study of the French novel with computational methods
-#### Literary questions
+##### Micro = 'researchers seek more detailed descriptions of individual first and re-editions' for 'patterns of actual production locations, print materials, and font styles' 
+##### Macro = 'patterns of content, narrative form and location as these evolved' over time and space 
 
 
 #### 2. What interpretative interventions were made?
@@ -65,31 +61,34 @@ To what extent does the current geographical representation of copies coincide w
 
 
 #### 3. What is new about the MMF3 phase?	
-### Our questions: social, economic, political, and cultural
+##### Our questions: 
 
 
-#### What did the French read before the revolution of 1789-1799 and how did their reading compare to that of francophone readers elsewhere? How might that reading have shaped ideologies and events?
-
-
-#### What books were produced, where were they consumed and by whom? How far can we speak of integrated national and international markets or a single print culture embracing both urban and rural areas?
-
-
-#### How cosmopolitan was fictional and non-fictional reading fare, and what might this indicate about the social and political imagination of the revolutionary generation? 
-
-
-### Our interpretations:
+### Our interpretative interventions:
 ##### Focus on data relationships, shift to relational database
+![Alt text]((/Users/katherinemcdonough/Documents/Github/kmcdono2.github.io/sharp2017/notebook_export.png)
+
 ##### Identifying first editions as “works,” subsequent editions as “manifestations,” and library copies as “instances” (adopting a FRBR framework)
-##### Deciding how to make the data publicly available (data dump, API, linked data)
-##### Thinking about place/publication data geographically
+![Alt text](/Users/katherinemcdonough/Documents/Github/kmcdono2.github.io/sharp2017/BnF_FRBR_example.jpg)
+
+
 ##### Improving prosopographical metadata for authors, publishers, editors, etc. (through access to BnF metadata)
+![Alt text](/Users/katherinemcdonough/Documents/Github/kmcdono2.github.io/sharp2017bnf_export.png)
 
 
-### Our outputs:
-##### Connected to projects, repositories, and other semantic web resources
-##### Graphically visualized
-##### Available digitally and in print
+##### Thinking about place/publication data geographically
+![Alt text](/Users/katherinemcdonough/Documents/Github/kmcdono2.github.io/sharp2017/fictitious_imprints.png)
 
+
+![Alt text](/Users/katherinemcdonough/Documents/Github/kmcdono2.github.io/sharp2017/place_geolocation_errors.png)
+
+
+##### Deciding how to make the data publicly available (data dump, API, linked data)
+![Alt text](/Users/katherinemcdonough/Documents/Github/kmcdono2.github.io/sharp2017/FBTEE_download.png)
+
+
+### Lessons?
+##### Bibliographic metadata is a pathway from books to people & places (focus on booksellers, publication and reading geographies)
 
 
 
