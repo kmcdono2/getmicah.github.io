@@ -1,3 +1,5 @@
+**SHARP2017**
+
 **Mapping the French Novel**
 
 **Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels**
@@ -12,7 +14,7 @@
 **MMF1**		1970s	
 Angus Martin, Vivienne Mylne, and Richard Frautschi, eds. *Bibliographie du genre romanesque francais, 1751-1800* (London, 1977)
 
-**MMF2**		1980s-2010s 
+**MMF2**		1980s-2010s	
 AM, VM, RF continue revising original entries, adding pre-1700 entries and 1700-1750 entries in computer database
 
 **MMF3**		2016-18	
@@ -73,7 +75,7 @@ FRBR
 
 False/fictitious publication places 
 
-Henry Cotton, **A Typographical Gazetteer** (Oxford, 1831)
+Henry Cotton, *A Typographical Gazetteer* (Oxford, 1831)
 ![Alt text](images/fictitious_imprints.png)
 
 
@@ -86,7 +88,7 @@ Locating places
 ![Alt text](images/place_geolocation_errors.png)
 
 
-###### Providing & consuming data
+###### Providing & consuming data beyond the initial record
 
 
 ![Alt text](images/FBTEE_download.png)
@@ -100,10 +102,9 @@ Locating places
 
 #### Lessons for now
 
-Databases are an **intermediary** between sources and researchers - what & who these are changes over time (intentional design for future users)
+Databases are an **intermediary** between sources and researchers - what & who these are changes over time (intentional design for future users), and so the database should be flexible
 
 Inter-generational research projects highlight the effects of **datafication** of the archival sources (layers of interpretation, coding)
-
 
 
 #### Results To Come!
