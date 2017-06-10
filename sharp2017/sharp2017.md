@@ -1,9 +1,10 @@
 ### SHARP2017
 **Mapping the French Novel**
 **Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels**
-Katie McDonough
-Western Sydney University
-@khetiwe24
+
+#### Katie McDonough
+#### Western Sydney University
+#### @khetiwe24
 
 ###### http://fbtee.uws.edu.au/mpce/
 
@@ -23,7 +24,7 @@ AM collaborates with Mapping Print, Charting Enlightenment project
 3. What is new about the MMF3 phase?
 
 
-1. What research questions drove database development?
+#### What research questions drove database development?
 
 ###### Martin/Frautschi 2002: 
 
@@ -33,13 +34,14 @@ AM collaborates with Mapping Print, Charting Enlightenment project
 - What words appear most frequently in titles?
 - What can we learn about stated publication places and publishers?
 
+
 #### AM @ SHARP 2016:
 
 - Would a large number of present-day library locations reveal not only large print runs but also something about the reception of works in different geographical areas?
 - Is there a correlation between a large number of re-editions and a large number of surviving copies? 
 
 
-2. What interpretative interventions were made?
+#### What interpretative interventions were made?
 
 ###### Defining the fields for data capture
 ![Alt text](images/MMF_fields.png)
@@ -53,7 +55,7 @@ AM collaborates with Mapping Print, Charting Enlightenment project
 ![Alt text](images/edition_location.png)
 
 
-3. What is new about the MMF3 phase?	
+#### What is new about the MMF3 phase?	
 
 ###### Focus on data relationships, shift to relational database
 ![Alt text](images/notebook_export.png)
@@ -67,13 +69,22 @@ AM collaborates with Mapping Print, Charting Enlightenment project
 
 
 ###### Thinking geographically
-False/fictitious publication places (A Sodome et a Cythere. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent)
+False/fictitious publication places 
+(A Sodome et a Cythere. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent.)
+
+
 ![Alt text](images/fictitious_imprints.png)
+
+
 Locating places
+
+
 ![Alt text](images/place_geolocation_errors.png)
 
 
 ###### Accessibility
+
+
 ![Alt text](images/FBTEE_download.png)
 
 
@@ -85,14 +96,13 @@ Locating places
 
 #### Lessons
 
-- Bibliographic data isn't just about books
-- Databases are an intermediary between sources and researchers - what & who these are changes over time
-- Inter-generational research projects highlight the effects of **datafication** of the archive
+Databases are an **intermediary** between sources and researchers - what & who these are changes over time (intentional design for future users)
+Inter-generational research projects highlight the effects of **datafication** of the archival sources (layers of interpretation, coding)
 
 
 #### Results To Come!
 
-- Transforming 21553 records of works and editions 
-- Locating 2830 Library locations and ~ 600 publication places
-- Linking to existing FBTEE database + others
-- Hoping for a WorldCat API connection
+Transforming 21553 records of works and editions
+Locating 2830 repositories and ~ 600 publication places
+Linking to existing FBTEE database + others
+Hoping for a WorldCat API connection
