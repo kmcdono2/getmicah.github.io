@@ -1,5 +1,6 @@
 ### SHARP2017
 **Mapping the French Novel**
+
 **Lessons and Results from the Digitization of the Print Bibliography of 18th-century French Novels**
 
 #### Katie McDonough
@@ -9,13 +10,13 @@
 ###### http://fbtee.uws.edu.au/mpce/
 
 
-#### MMF1		1970s	
+**MMF1**		1970s	
 Angus Martin, Vivienne Mylne, and Richard Frautschi, eds. *Bibliographie du genre romanesque francais, 1751-1800* (London, 1977)
 
-#### MMF2		1980s-2010s 
+**MMF2**		1980s-2010s 
 AM, VM, RF continue revising original entries, adding pre-1700 entries and 1700-1750 entries in computer database
 
-#### MMF3		2016-18	
+**MMF3**		2016-18	
 AM collaborates with Mapping Print, Charting Enlightenment project
 
 
@@ -44,6 +45,7 @@ AM collaborates with Mapping Print, Charting Enlightenment project
 #### What interpretative interventions were made?
 
 ###### Defining the fields for data capture
+45 data fields in Notebook software
 ![Alt text](images/MMF_fields.png)
 
 
@@ -56,24 +58,26 @@ AM collaborates with Mapping Print, Charting Enlightenment project
 
 
 #### What is new about the MMF3 phase?	
-
-###### Focus on data relationships, shift to relational database
+Focus on data relationships, shift to relational database
 ![Alt text](images/notebook_export.png)
 
 
 ###### Connecting metadata
 ![Alt text](images/BnF_graph.jpg)
 
-
+FRBR
 ![Alt text](images/BnF_FRBR_example.jpg)
 
 
 ###### Thinking geographically
+
+
 False/fictitious publication places 
-(A Sodome et a Cythere. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent.)
-
-
+Henry Cotton, **A Typographical Gazetteer** (Oxford, 1831)
 ![Alt text](images/fictitious_imprints.png)
+
+
+--> A Sodome et a Cythere. Et se trouvent plus qu'ailleurs dans la poche de ceux qui le condamnent.
 
 
 Locating places
@@ -82,7 +86,7 @@ Locating places
 ![Alt text](images/place_geolocation_errors.png)
 
 
-###### Accessibility
+###### Providing & consuming data
 
 
 ![Alt text](images/FBTEE_download.png)
@@ -94,10 +98,11 @@ Locating places
 ![Alt text](images/BnF_libraire_scrape.png)
 
 
-#### Lessons
+#### Lessons for now
 
 Databases are an **intermediary** between sources and researchers - what & who these are changes over time (intentional design for future users)
 Inter-generational research projects highlight the effects of **datafication** of the archival sources (layers of interpretation, coding)
+
 
 
 #### Results To Come!
