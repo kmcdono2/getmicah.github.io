@@ -38,18 +38,8 @@
 
 #### AM @ SHARP 2016:
 ###### Would a large number of present-day library locations reveal not only large print runs but also something about the reception of works in different geographical areas?
-
-
 ###### Is there a correlation between a large number of re-editions and a large number of surviving copies? 
 
-
-###### How does one interpret 'collaborative' editions, where the same printing is issued under a number of different title pages bearing the names of different publishers? What does it mean when there are a large number of library copies for some editions and not for others?
-
-
-###### Do pirate editions achieve lower or higher numbers of copies? 
-
-
-###### To what extent does the current geographical representation of copies coincide with their original distribution in the eighteenth century?
 
 
 #### RF and AM @ ISECS 2015: Micro & Macro questions
@@ -67,13 +57,13 @@
 
 
 ###### Defining the fields for data capture
-![Alt text](images/MMF_fields)
+![Alt text](images/MMF_fields.png)
 
 ###### Adopting database model for MMF2 (Notebook software)
 
 
 ###### Developing a method for differentiating between works and editions (first editions/subsequent editions)
-![Alt text](images/MMF_identifiers)
+![Alt text](images/MMF_identifiers.png)
 
 ###### Choosing at first to limit the bibliography to 1750-1800, then expanding the digitized database to the entire century
 
@@ -96,7 +86,7 @@
 
 
 ###### Connecting metadata
-![Alt text](images/BnF_graph)
+![Alt text](images/BnF_graph.jpg)
 
 
 ![Alt text](images/bnf_export.png)
@@ -116,7 +106,7 @@
 
 ---
 
-####### A Bagatelle, A Démocratis, La Haye, aux dépens de la Mecque
+####### A Bagatelle, A Democratis, La Haye, aux depens de la Mecque
 
 ![Alt text](images/fictitious_imprints.png)
 
@@ -129,10 +119,10 @@
 ![Alt text](images/FBTEE_download.png)
 
 
-![Alt text](images/linked_places_table)
+![Alt text](images/linked_places_table.png)
 
 
-![Alt text](images/BnF_libraire_scrape)
+![Alt text](images/BnF_libraire_scrape.png)
 
 
 ##### Lessons
