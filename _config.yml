@@ -31,7 +31,7 @@ sass:
 author:
   name     : false
   job      : false
-  bio      : "I am a historian and I work at The Alan Turing Intitute, the national research institute for data science and AI in the UK. I can be found exploring archives and library collections (digitized and non-digitized), experimenting with computational methods, and asking 'where' questions about the past. My principal focus is on eighteenth-century France, but I also work on early modern and modern European and British history."
+  bio      : "I am a historian and I work at The Alan Turing Institute, the national research institute for data science and AI in the UK. I can be found exploring archives and libraries (digitized and non-digitized), experimenting with computational methods, and asking 'where' questions about the past. My principal focus is eighteenth-century France, but I also work on early modern and modern European and British history."
   thumb    :
   email    : "kmcdonough [at] turing.ac.uk"
   url      :
