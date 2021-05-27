@@ -4,12 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-Research Associate on [Living with Machines](https://livingwithmachines.ac.uk/)
-Principal Investigator on [Machines Reading Maps](https://www.turing.ac.uk/research/research-projects/machines-reading-maps) (and [here](https://machines-reading-maps.github.io/))
-[Profile](https://www.turing.ac.uk/people/researchers/katherine-mcdonough) at The Alan Turing Institute
-I'm on [Twitter](https://twitter.com/khetiwe24)
-kmcdonough [at] turing.ac.uk
+kmcdono2 (at) stanford.edu
+[Stanford University Profile](https://history.stanford.edu/people/katie-mcdonough)  
+[Twitter](https://twitter.com/khetiwe24)
 
+I am the Academic Technology Specialist in the Department of History at Stanford University.
 
 
 My book manuscript is a history of the politics of highway
@@ -20,7 +19,7 @@ significance of this provincial public works project. Using the archives
 of the public works administrations in the province of Brittany, this is
 the only book-length project in English with a focus on the forced labor system of
 the corvée. Building highways was a local endeavor that we should better understand
-as a major factor bringing together political, economic, technological, and environmental
+as a major factor bringing together political, economic, technological, and environmental 
 specialists in the eighteenth century. As such, the book decenters the study of French
 political economy and technology from the city to the networked countryside and opens
 new ground in linking environmental and political history in eighteenth-century French history.
@@ -41,7 +40,7 @@ Stanford. From June 2013-September 2014, I worked in the School of
 Humanities and Sciences Dean's Office at Stanford on projects related to
 undergraduate and graduate humanities education.  
 
-I completed my PhD in History at Stanford in June 2013. There, I was the co-organizer (with Lauren Jarvis) of
+I completed my PhD in History at Stanford in June 2013. There, I was the co-founder (with Lauren Jarvis) of
 the Stanford History Archival Workshop, which, in addition to practical
 sessions about how to do archival research, brought together Bay area
 scholars and archivists to explore the history and the future of

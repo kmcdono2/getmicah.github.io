@@ -3,14 +3,14 @@
 title: "Katherine "
 title2: "McDonough" # default: ""
 description: "Historian"
-keywords: "history, academia, mapping, France, European, French"
+keywords: "history, spatial history, mapping, France, European, digital humanities, spatial humanities, computer vision, geographic information retrieval"
 url: http://kmcdono.com # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-82466685-1
 repo: github.kmcdono2.io
-disqus_shortname: 
+disqus_shortname:
 twitter_username: khetiwe24
 comments: false
 
@@ -31,14 +31,14 @@ sass:
 author:
   name     : false
   job      : false
-  bio      : "I am a historian of France working primarily on the eighteenth century. I write periodically here about my projects, digital humanities, higher ed, archives, and radio/podcasts."
-  thumb    : 
-  email    : 
+  bio      : "I am a historian. I can be found exploring archives and library collections (digitized and non-digitized), experimenting with computational methods, and asking 'Where?' questions about the past. My principal focus is on eighteenth-century France, but I also work more broadly on early modern and modern European and British history."
+  thumb    :
+  email    :
   url      :
-  github   : 
-  twitter  : 
-  facebook : 
-  linkedin : 
+  github   :
+  twitter  :
+  facebook :
+  linkedin :
 
 # social settings
 og_locale: "en_US"
@@ -53,9 +53,7 @@ gems:
 navbar:
   - slug : about
     title: About
-  - slug : blog
-    title: Blog
   - slug : cv
-    title: CV  
+    title: CV
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
