@@ -31,7 +31,13 @@ sass:
 author:
   name     : false
   job      : false
-  bio      : "I am a historian. I can be found exploring archives and library collections (digitized and non-digitized), experimenting with computational methods, and asking 'Where?' questions about the past. My principal focus is on eighteenth-century France, but I also work more broadly on early modern and modern European and British history."
+  bio      : "I am a historian. I can be found exploring archives and library collections (digitized and non-digitized), experimenting with computational methods, and asking 'where' questions about the past. My principal focus is on eighteenth-century France, but I also work more broadly on early modern and modern European and British history.
+
+  Research Associate on [Living with Machines](https://livingwithmachines.ac.uk/)
+  Principal Investigator on [Machines Reading Maps](https://www.turing.ac.uk/research/research-projects/machines-reading-maps) (and [here](https://machines-reading-maps.github.io/))
+  [Profile](https://www.turing.ac.uk/people/researchers/katherine-mcdonough) at The Alan Turing Institute
+  I'm on [Twitter](https://twitter.com/khetiwe24)
+  kmcdonough [at] turing.ac.uk"
   thumb    :
   email    :
   url      :
