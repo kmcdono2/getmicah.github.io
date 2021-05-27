@@ -19,7 +19,7 @@ significance of this provincial public works project. Using the archives
 of the public works administrations in the province of Brittany, this is
 the only book-length project in English with a focus on the forced labor system of
 the corvée. Building highways was a local endeavor that we should better understand
-as a major factor bringing together political, economic, technological, and environmental 
+as a major factor bringing together political, economic, technological, and environmental
 specialists in the eighteenth century. As such, the book decenters the study of French
 political economy and technology from the city to the networked countryside and opens
 new ground in linking environmental and political history in eighteenth-century French history.
